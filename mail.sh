@@ -1,0 +1,1 @@
+echo "Hi, How are you?" | mail -s "Hello" ashlizjosh085@gmail.com

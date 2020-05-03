@@ -1,0 +1,1 @@
+ex  -s -c  ‘%s/line of/the /g | x’ text  
